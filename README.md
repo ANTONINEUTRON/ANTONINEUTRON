@@ -3,7 +3,7 @@
     <li>Mobile</li>
     <dd>My Preferred specialization!😊😊 <p>I started out using java & kotlin for developing native android applications. Along the line I delve into developing cross-platform applications using the Flutter framework</p></dd>
     <li>Web</li>
-    <dd>My experience with web development is a storied one😉. But in essence I have experience with React framework for frontend development. <p>In addition, I have been able to develop RESTful backends using laravel and spring-boot for various applications across the years.</p></dd>
+    <dd>My experience with web development is a storied one😉. But keeping it brief, I have experience with React framework for frontend development. <p>In addition, I have been able to develop RESTful backends using laravel and spring-boot for various applications across the years.</p></dd>
     <li>Desktop</li>
     <dd>I have experience developing desktop applications. During my undergrad days I got a gig to develop a restaurant order processing system using Java <i>(implementing the receipt printing feature was a bit difficult tho).</i></dd>
     <li>Blockchain</li>
