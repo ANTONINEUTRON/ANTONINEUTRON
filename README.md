@@ -1,4 +1,4 @@
-<h5 align="left">Hi 👋, I am a software engineer with over 5 years experience developing mobile and web applications.</h5>
+<h5 align="left">Hi 👋, I am a software engineer with experience developing applications with Typescript, Dart, Rust & Kotlin</h5>
 
 
 <h3 align="left">Connect with me:</h3>
