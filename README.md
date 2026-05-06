@@ -1,5 +1,22 @@
-<h5 align="left">Hi 👋, I am a software engineer with experience developing applications with Typescript, Dart, Rust & Kotlin</h5>
+Hi, I'm Antoni
 
+I’m a product-focused software engineer who builds scalable mobile and web applications, with a strong focus on real-world usability and performance.
+I enjoy working at the intersection of engineering, product thinking, and emerging technologies like AI and interactive systems.
+
+### Tech Stack
+- Mobile: Flutter, Kotlin & Java (Android), React Native
+- Web: Next.js, React, Flutter web
+- Backend & Tools: Firebase, Supabase, Express, Laravel, Springboot
+- Others: CI/CD, API integrations, Cloud (GCP & AWS)
+
+### Currently
+- Building Symbal — an AI-powered platform for creating and sharing interactive games (app.symbal.fun)
+- Exploring how AI changes product design, content creation, and distribution
+- Working within the solana and superteam ecosystem
+
+### Open to
+- Collaborations and interesting product ideas
+- Remote opportunities (Mobile / Web / Fullstack Engineering / Community / Devrel)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
