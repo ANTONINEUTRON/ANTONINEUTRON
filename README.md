@@ -6,7 +6,7 @@ I enjoy working at the intersection of engineering, product thinking, and emergi
 ### Tech Stack
 - Mobile: Flutter, Kotlin & Java (Android), React Native
 - Web: Next.js, React, Flutter web
-- Backend & Tools: Firebase, Supabase, Express, Laravel, Springboot
+- Backend & Tools: Firebase, Supabase, Express, Nestjs, Laravel, Springboot
 - Others: CI/CD, API integrations, Cloud (GCP & AWS)
 
 ### Currently
