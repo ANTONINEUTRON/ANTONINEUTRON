@@ -1,16 +1,17 @@
 Hi, I'm Antoni
 
 I’m a product-focused software engineer who builds scalable mobile and web applications, with a strong focus on real-world usability and performance.
-I enjoy working at the intersection of engineering, product thinking, and emerging technologies like AI and interactive systems.
+I enjoy working at the intersection of engineering, product thinking, GTM engineering and emerging technologies like AI, distributed and interactive systems.
 
 ### Tech Stack
 - Mobile: Flutter, Kotlin & Java (Android), React Native
 - Web: Next.js, React, Flutter web
-- Backend: Firebase, Supabase, Express, Nestjs, Laravel, Springboot
+- Backend: Firebase, Supabase, Express, Nestjs
 - Others: CI/CD, API integrations, Cloud (GCP & AWS)
 
 ### Currently
-- Building Symbal — an AI-powered platform for creating and sharing interactive games (app.symbal.fun)
+- Building Formation - (formation.titalabs.xyz)[formation.titalabs.xyz]
+- Building Symbal — an AI-powered platform for creating and sharing interactive games (symbal.fun)[symbal.fun]
 - Exploring how AI changes product design, content creation, and distribution
 - Working within the solana and superteam ecosystem
 
